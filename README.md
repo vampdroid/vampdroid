@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**vampdroid/vampdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hey there, I am Yash Kukreja - a masters student at DAIICT, Gandhinagar (India)
 
 - 🔭 I learn and re-learn code and tech.
@@ -18,4 +13,9 @@ Hey there, I am Yash Kukreja - a masters student at DAIICT, Gandhinagar (India)
       }
 - 😄 I have hands on Android Studio, Django, MERN Stack
 - 📫 If you have any queries (or SQL queries as well!) - you can reach me out at - yashskukreja@gmail.com
+
+<!--
+**vampdroid/vampdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 <!--- ⚡ Fun fact: -->
