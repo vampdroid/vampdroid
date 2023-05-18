@@ -9,10 +9,10 @@ Hey there, I am Yash Kukreja - a masters student at DAIICT, Gandhinagar (India)
       }
       Else if(you_are == computer)
       {
-        languages_i_know = ["C++","Java","Javascript","Python"]
+        languages_i_know = ["C++","Java","Javascript","Python","PHP"]
       }
-- 😄 I have hands on Android Studio, Django, MERN Stack
-- 📫 If you have any queries (or SQL queries as well!) - you can reach me out at - yashskukreja@gmail.com
+- 😄 I have hands on Android Studio, Django, MERN Stack, WordPress.
+- 📫 If you have any queries (or SQL queries as well!) - you can reach me out at - yashskukreja@gmail.com.
 
 <!--
 **vampdroid/vampdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
